@@ -10,5 +10,5 @@ puts difference
 product = first_number * second_number
 puts product
 
-quotient.to_f = first_number / second_number
+quotient = first_number / second_number
 puts quotient
