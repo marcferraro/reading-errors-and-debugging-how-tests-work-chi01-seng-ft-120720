@@ -7,6 +7,8 @@ puts sum
 difference = first_number - second_number
 puts difference
 
-quotient = first_number * second_number
-puts quotient
+product = first_number * second_number
+puts product
 
+quotient.to_f = first_number / second_number
+puts quotient
